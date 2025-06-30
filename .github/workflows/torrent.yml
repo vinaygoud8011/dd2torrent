@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  name: "Vinay Photos"
+  comment: "The comment inside the torrent file."
+  url: "https://doc-6k-38-photos-data-export.googleusercontent.com/download/svtessdck3to19jl39klha1nboqq9cm8/f10cl1kro7b56mgonoqto6vp3rm8qd06/1751296500000/f6126d01-bbe3-442f-9ef9-a9b661f9251e/105765626431716220259/ADt3v-Og-uQb3H3DwRwc7k-t4cqbxFP106RRTx-JBb1zF9c_-_c4zFwp09eUCy_HpUDiJgbsAGETYb6TjEUhT2UiWoXwGFFw_f8HYuX_-ID1tNorZfXrzr_3iW2aW236JlSxROqrIECGDznQuvzHWSeZRmNL-o3-A2-Fhhrjbn4TOfH7tRKP3EkXD_rpjeDi0M88W6Nw9eRZgijIApHK7F0YThYWKCjsiJcg5cbeQsC-5bx4CuZG6lCdh28K6DcIzqY4xSKPF0jCt3JdXHauvpW8mPwtp8M6nS0gpRqaCArK_elEcZfVqqM=?authuser=0&nonce=iruu8clbp41tq&user=105765626431716220259&hash=sc7g07jucltg6tjf09lkp03phkb9l1a5"
+  file_name: "Vinay Photos"
+  piece_size: The size of the torrent pieces in potency of 2 (2^n)
       
 jobs:
   create:
